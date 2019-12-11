@@ -1,0 +1,369 @@
+
+@media screen and (min-width:360px) and (max-width:520px) {
+  
+    
+   
+.logo{
+    padding-left: 110px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+
+.logo2{
+    padding-left: 110px;
+    padding-top: 20px;
+    padding-bottom: 28px;
+}
+.about0{
+    font-family: 'raleway';
+    font-weight: light;
+    
+    font-size: 15px;
+
+}
+.bigimgtxt{
+    padding-top: 825px;
+    padding-left: 2px;
+    padding-bottom: 85px;
+}
+#bigimg h1{
+    font-size: 40px;
+    font-family: 'Montserrat';
+    font-weight: bold;
+}
+#card .row {
+    height: auto;
+}
+#card .about{
+    background-color: #000000;
+}
+#card .donations{
+    background: linear-gradient(to bottom, #010d2d 0%, #00123e 100%);
+}
+#card .stay-informed{
+    background-color: #339933;
+}
+#card .newsletter{
+    background-color: #222222;
+}
+#card .event{
+    background-color: #000000;
+}
+#card .adopt{
+    background-color: #222222;
+}
+#card .row img{
+    margin: 60px 100px ;
+}
+#card .row h1{
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 25px;
+    font-weight:800;
+    margin-top: -53px;
+    text-align: center;
+    padding-right: 300px;
+}
+#card .row p{
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight:300;
+    text-align: center;
+}
+.about h1{
+    margin-left: 152px;
+}
+.donations h1{
+    margin-left: 94px;
+}
+.stay-informed h1{
+    margin-left: 49px;
+}
+.newsletter h1{
+    margin-left: 100px;
+}
+.event h1{
+    margin-left: 52px;
+}
+.adopt h1{
+    margin-left: 135px;
+}
+.empty65{
+    margin:32px 0px;
+    overflow: hidden;
+}
+#news .nass{
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    color: #222222;
+
+}
+
+
+.border-effect { height:15px;width:20%;margin-top: 2px; }
+
+* {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.item {
+    position: relative;  
+    overflow: hidden;
+    width: 100%;
+}
+
+.item img {
+    max-width: 100%;  
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.themeBtn{
+    font-family: 'Montserrat', sans-serif;
+    background: #00123e;
+    color: #ffffff !important;
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 300;
+    height: 40px;
+    line-height: 0.8;
+    padding: 10px 30px;
+    text-transform: capitalize;
+    border-radius: 1px;
+    letter-spacing: 0.5px;
+    border:0px !important;
+    cursor:pointer;
+    border-radius:100px;
+    width: 162px;
+    margin-left: 172px;
+    margin-top:22px;
+    margin-bottom: 42px;
+
+}
+#news .container p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    color: #222222;
+    font-weight: normal;
+    text-align: left;
+}
+#news .container h3{
+    font-family: 'Montserrat', sans-serif;
+    text-align: left;
+    color: #222222;
+    font-size: 24px;
+}
+#news .read1{
+    padding-top: 20px;
+    padding-left: -30px;
+}
+.empty20{
+    margin:20px 0px;
+    overflow: hidden;
+}
+
+
+.line {
+    border-bottom: 1px solid #e6dcdc;
+    text-align:center;
+    height:17px;
+    margin-bottom:17px;
+    color: gainsboro;
+}
+
+.lineImg {
+    background-color:white;
+    padding:0px 5px 0px 5px;
+}
+
+
+#facebook{
+    color: #efefef;
+
+}
+#facebook .ff{
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    color: #222222;
+    padding-left: 600px;
+
+}
+.boxed {
+    width: 100px;
+    height: auto;
+    margin:0 auto;
+    border: 1px solid #222222 ;
+}
+.abc{
+    height: auto;
+    width: 100px;
+    margin-left: -500px;
+}
+#footer{
+    background-color: #080b13;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    height: auto;
+
+}
+#footer h5{
+    font-size: 18px;
+    margin-top: 56px;
+    margin-left: -15px;
+}
+#footer h6{
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: -16px;
+    margin-top: 34px;
+}
+#footer p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    margin-left: -15px;
+}
+#footer h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    margin-top: 56px;
+    margin-left: -108px;
+}
+#footer img{
+    margin-top: -367px;
+    margin-left: -114px;
+
+}
+#footer ul img{
+    margin-top: 30px;
+    margin-left: -15px;
+}
+#footer button{
+    margin-top: -446px;
+    margin-left: 20px;
+}
+
+#footer h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #efefef;
+    font-size: 18px;
+    margin-top: -9px;
+    margin-left: -107px;
+    font-weight: normal;
+}
+.dd{
+    display: inline-block;
+}
+
+
+
+
+.is li{
+/*    display: inline-block;*/
+}
+.footer-copyright{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    color: #ffffff;
+}
+
+.box
+{
+    background-color:   #efefef;
+    height: auto;
+
+}
+.box1
+{
+    background-color: white;
+    width:auto;
+    height: auto;
+    margin-left:354px;  
+}
+.boxletter
+{   
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    padding-left:500px;
+    padding-bottom:50px;
+    padding-top:50px;
+    font-size: 30px;
+}
+.boxphotofb
+{
+    width: 42px;
+    height: 45px;
+    padding-left:10px;
+    border: none;
+    padding-top:10px;
+}
+.red
+{
+    color: #e34f39;
+    padding-left:8px;
+    font-weight: bold;
+}
+
+.days
+{   
+    left:420px;
+    top: 150px;
+    color: gray;
+    font-size: 10px;
+    position:absolute;
+
+}
+
+
+
+
+
+.red2
+{
+    color: #e34f39;
+    margin-top: -12px;
+    margin-left: 8px;
+    font-weight: bold;
+}
+.gray
+{
+    color: gray;
+    margin-top: -5px;
+    margin-left: 9px;
+    font-size: 15px;
+    font-family: serif;
+}
+
+.box3
+{
+    background-color: gray;
+    width:100px;
+    height:30px;
+    margin-top: 15px; 
+    margin-left: 7px;
+    background-color:#EAF2F8; 
+    padding-left:5px; 
+}
+.red4
+{
+    color: #e34f39;
+    margin-top: -23px;
+    margin-left: 537px;
+    font-size: 9px;
+    font-weight: bold;
+}
+
+.up1
+{
+    color: red;
+    font-size: 15px;
+
+}
+}
